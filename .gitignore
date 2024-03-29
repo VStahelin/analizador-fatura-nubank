@@ -1,0 +1,10 @@
+.idea/*
+cmake-build-*/
+*.iws
+out/
+.idea_modules/
+.venv/
+__pycache__/
+data/Resumo de faturas _ Nubank Web App.html
+data/report.csv
+data/cleaned_table.html
